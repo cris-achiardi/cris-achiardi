@@ -1,6 +1,4 @@
-# Cristian Morales
-
-**Architecting AI-powered design systems.**
+# Architecting AI-powered design systems
 
 Design Engineer from Chile. Maker, speaker, educator, writer.
 
