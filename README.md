@@ -4,16 +4,15 @@
 
 Design Engineer from Chile. Maker, speaker, educator, writer.
 
-Currently at [Southleft](https://southleft.com/) as Fractional Design Engineering Partner — design systems architecture on client engagements, plus the internal tooling and workflows behind them. Before that, four years at [Enara Health](https://enarahealth.com/), where I architected their agentic design system.
+Currently at [Southleft](https://southleft.com/) where I collab with the team building AI-powered design systems on client engagements, and develop internal tooling and workflows as Fractional Design Engineering Partner.
 
-I build pipelines and tooling that optimize design and code workflows: agent skills, contract-driven architecture, and the methodology that makes it hold. No translation gaps, no interpretation errors — just seamless execution between design and code.
+I build pipelines and tooling that optimizes design & code workflows. Developing agent skills, infrastructure, and methodology that makes it real. No translation gaps, no interpretation errors. Just seamless execution between design and code.
 
 ---
 
 ## Building
 
 | | |
-| --- | --- |
 | **[claude-skills](https://github.com/cris-achiardi/claude-skills)** | Claude skills plugin for design-to-code workflows and the functional layers of an agentic design system. `npx giorris-claude-skills` — 1K+ installs. |
 | **[weave-ds-template](https://github.com/cris-achiardi/weave-ds-template)** | A design system starter that ships the machinery — token pipeline, component contracts, prop glossary, Figma wiring, ADRs, CI — and zero components. You build those against a decision. |
 | **[open-design-system-bench](https://github.com/cris-achiardi/open-design-system-bench)** | How AI-ready is your design system? A plug-in benchmark that runs coding agents against your component library and grades the output. |
