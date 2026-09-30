@@ -26,6 +26,15 @@ Published in **Design Systems Collective**:
 - [**Towards an agentic design system**](https://medium.com/@crmorales.achiardi/list/agentic-design-systems-25eb67b1201a) — an 8-part series on making a design system legible to AI agents.
 - [**Design systems foundations**](https://medium.com/@crmorales.achiardi/list/design-systems-foundations-b0c7c4aeff0d) — a 3-part series reframing design systems as shared language and contracts, not component libraries.
 
+Guest posts:
+
+- [**What does AI-readiness mean in design systems?**](https://southleft.com/insights/design-systems/what-does-ai-readiness-mean-in-design-systems/) — on the **Southleft** blog.
+- [**How to design better component APIs for your design system**](https://zeroheight.com/blog/how-to-design-better-component-apis-for-your-design-system/) — on the **zeroheight** blog.
+
+## Podcast
+
+- [**The Loop with Pegah and Cris**](https://www.youtube.com/@TheLoop-with-Pegah-and-Cris) — a YouTube podcast co-hosted with Pegah 🎙️
+
 ## Talks
 
 - **Building an agentic design system** — [Nerdearla Chile 2026](https://www.youtube.com/watch?v=ZYWwdNVrp40), Santiago 🎥
