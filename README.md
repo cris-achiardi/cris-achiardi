@@ -34,6 +34,7 @@ Guest posts:
 ## Podcast
 
 - [**The Loop with Pegah and Cris**](https://www.youtube.com/@TheLoop-with-Pegah-and-Cris) — a YouTube podcast co-hosted with [Pegah Ahmadi](https://www.linkedin.com/in/pegah-ahmadi/) 🎙️
+- Guest on [**Wireframe Live**](https://www.youtube.com/live/fayLAjPChHM) 🎥
 
 ## Talks
 
