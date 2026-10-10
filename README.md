@@ -14,7 +14,6 @@ I build pipelines and tooling that optimizes design & code workflows. Developing
 | --- | --- |
 | **[claude-skills](https://github.com/cris-achiardi/claude-skills)** | Claude skills plugin for design-to-code workflows and the functional layers of an agentic design system. `npx giorris-claude-skills` — 1K+ installs. |
 | **[weave-ds-template](https://github.com/cris-achiardi/weave-ds-template)** | A design system starter that ships the machinery — token pipeline, component contracts, prop glossary, Figma wiring, ADRs, CI — and zero components. You build those against a decision. |
-| **[open-design-system-bench](https://github.com/cris-achiardi/open-design-system-bench)** | How AI-ready is your design system? A plug-in benchmark that runs coding agents against your component library and grades the output. |
 | **[figma-plugins](https://github.com/cris-achiardi/figma-plugins)** | Three published Figma plugins: DS Adoption Tracker, Code Syntax Generator, and Component Spec. |
 | **[mcp-hono-vercel-template](https://github.com/cris-achiardi/mcp-hono-vercel-template)** | Template for a remote MCP server on Hono. Clone, add a tool, deploy. |
 | **[ats-killer-resume-builder](https://github.com/cris-achiardi/ats-killer-resume-builder)** | YAML data, Jinja2 templates, CSS styling, WeasyPrint out. Resumes that survive the parser. |
